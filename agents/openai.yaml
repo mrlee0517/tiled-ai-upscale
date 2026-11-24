@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI分块放大与细节修复"
+  short_description: "按指定倍数进行16宫格AI放大、降噪修复、结构检查与无缝拼合"
+  default_prompt: "使用 $tiled-ai-upscale 将这张图放大到我指定的倍数，采用16宫格处理并检查手指等不合理细节。"
